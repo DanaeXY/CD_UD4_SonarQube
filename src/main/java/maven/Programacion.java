@@ -1,4 +1,4 @@
-package maven; 
+package maven; /*atencion al package*/
 
 public class Programacion{
 
